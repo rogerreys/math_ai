@@ -1,1 +1,1 @@
-# math_ai
+# Estadistica Descriptiva
